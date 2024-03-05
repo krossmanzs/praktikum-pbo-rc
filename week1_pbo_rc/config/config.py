@@ -9,6 +9,6 @@ class Config:
     DEFAULT_WP2_CR = 0.53
     DEFAULT_WP2_BASE_ATK = 50
     
-    DEFAULT_RB1_NAME = "Krossamnzs"
+    DEFAULT_RB1_NAME = "Krossmanzs"
     DEFAULT_RB2_NAME = "Grandmode"
     DEFAULT_ROBOT_HEALTH = 500
