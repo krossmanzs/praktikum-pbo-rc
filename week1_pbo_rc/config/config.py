@@ -1,0 +1,14 @@
+class Config:
+    DEFAULT_STUNT_COUNTDOWN = 5
+    DEFAULT_REGEN_COUNTDOWN = 3
+    
+    DEFAULT_WP1_NAME = "Granite Sword"
+    DEFAULT_WP1_CR = 0.4
+    DEFAULT_WP1_BASE_ATK = 44
+    DEFAULT_WP2_NAME = "Titanium Sword"
+    DEFAULT_WP2_CR = 0.53
+    DEFAULT_WP2_BASE_ATK = 50
+    
+    DEFAULT_RB1_NAME = "Krossamnzs"
+    DEFAULT_RB2_NAME = "Grandmode"
+    DEFAULT_ROBOT_HEALTH = 500
