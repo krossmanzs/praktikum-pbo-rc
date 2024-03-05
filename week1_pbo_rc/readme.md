@@ -8,7 +8,7 @@
 
 ## How to run
 ```bash
-python .\main.py
+python .\122140079_Cornelius_Linux_Pset{1}.py
 ```
 ## Settings
 You can edit the game config on the [Config](config/config.py)
