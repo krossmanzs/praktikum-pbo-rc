@@ -1,6 +1,6 @@
 # ~~Simple~~ RPG Game 🤡
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRpMzVoNWMxdDhsNG9hNGQ2bnExczY3NXhtMjhqeG4wM3FoZW1lNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p0cmppOHl2ZjY2MGRlY296eWtodnIyNmswODAzYTM3eGZmZmJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy-downsized.gif)
 
 ## Prerequisites
 - Python 3.x.x
