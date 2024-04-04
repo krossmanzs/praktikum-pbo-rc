@@ -6,6 +6,6 @@
 1. Go to game folder
 2. Run:
 ```cli
-python main.py
+python 122140079_cornelius_linux_Quiz1.py
 ```
 3. Enjoy :)
